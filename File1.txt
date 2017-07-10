@@ -1,1 +1,2 @@
 This is the first file entry.
+And now the second entry.
